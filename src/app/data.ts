@@ -145,6 +145,16 @@ export const resumeData: ResumeData = {
       issuer: "UDEMY",
       date: "2025"
     },
+     {
+      name: "Full End Development Libraries ",
+      issuer: "freecodecamp",
+      date: "2025"
+    },
+      {
+      name: "MATLAB Onramp ",
+      issuer: "MathWorks",
+      date: "2025"
+    },
     
   ]
 };
